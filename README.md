@@ -70,10 +70,3 @@ nodemon index.js
 ```
 Note - Make sure database and server running successfully by getting these msg in termianl. 
 <img width="505" alt="2022-12-06" src="https://user-images.githubusercontent.com/93537069/205813137-f722d7d8-73f9-42b9-9a68-cfcbaa68f1cc.png">
-
-## Page Visuals
-<img width="960" alt="2022-12-05 (1)" src="https://user-images.githubusercontent.com/93537069/205813695-5ab49b8f-f4b4-4a3b-ad12-3e97af4c292e.png">
-
-<img width="960" alt="2022-12-05 (2)" src="https://user-images.githubusercontent.com/93537069/205813726-ec6c6a1a-0be5-48c8-a2ed-04a3fd54a104.png">
-
-<img width="960" alt="2022-12-05 (3)" src="https://user-images.githubusercontent.com/93537069/205813761-5dc87095-7602-43fb-9281-e43d097de5d5.png">
